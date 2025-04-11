@@ -1,4 +1,4 @@
-# Olá, eu sou o Guilherme Carvalho!
+# <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Olá, eu sou o Guilherme Carvalho!
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
