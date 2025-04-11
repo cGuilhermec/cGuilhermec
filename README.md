@@ -17,6 +17,10 @@ Desenvolvedor apaixonado por tecnologia, focado em FullStack. Sempre em busca de
 
 ![Snake animation](https://github.com/cGuilhermec/cGuilhermec/blob/output/github-contribution-grid-snake.svg)
 
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cGuilhermec&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+
 ## Projetos em destaque
 | Nome do Projeto | Tecnologias | Descrição |
 |-----------------|-------------|-----------|
