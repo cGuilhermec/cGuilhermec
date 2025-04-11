@@ -1,6 +1,6 @@
 # Olá, eu sou o Guilherme Carvalho!
 
-[Coloque um gif animado ou emoji aqui]
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 ## Sobre mim
 Desenvolvedor apaixonado por tecnologia, focado em FullStack. Sempre em busca de novos desafios e soluções criativas.
