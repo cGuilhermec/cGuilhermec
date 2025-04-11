@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Guilherme Carvalho!
 
-<!--
-**cGuilhermec/cGuilhermec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Coloque um gif animado ou emoji aqui]
 
-Here are some ideas to get you started:
+## Sobre mim
+Desenvolvedor apaixonado por tecnologia, focado em FullStack. Sempre em busca de novos desafios e soluções criativas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Atualmente trabalhando com: **React, Node, TypeScript,  MySQL,  MongoDB, PostgreSQL,  Prisma,  MVC**.
+- Aprendendo: **C#, .Net, GraphQL, Angular**
+- Interesses: **projetos open source, IA, automações, saúde tech, finanças...**
+
+## Projetos em destaque
+| Nome do Projeto | Tecnologias | Descrição |
+|-----------------|-------------|-----------|
+| [Projeto 1](link) | React, Node.js | Aplicação para [breve descrição] |
+| [Projeto 2](link) | Python, FastAPI | Sistema que [breve descrição] |
+
+## Contato
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/seulink)  
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)  
+[Outras redes ou portfólio]
+
+---
+
+**Vamos codar algo incrível juntos!**
