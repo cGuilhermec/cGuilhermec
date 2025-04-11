@@ -27,6 +27,9 @@ Desenvolvedor apaixonado por tecnologia, focado em FullStack. Sempre em busca de
 | [Projeto 1](link) | React, Node.js | Aplicação para [breve descrição] |
 | [Projeto 2](link) | Python, FastAPI | Sistema que [breve descrição] |
 
+
+<h2>See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
+
 ## Contatos:
 
 <div>
