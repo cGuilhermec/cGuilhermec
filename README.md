@@ -11,8 +11,8 @@ Desenvolvedor apaixonado por tecnologia, focado em FullStack. Sempre em busca de
 
 <div>
 <a href="https://github.com/cGuilhermec">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?cGuilhermec&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?cGuilhermec&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?[cGuilhermec]https://github.com/cGuilhermec&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?[cGuilhermec]https://github.com/cGuilhermec&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Projetos em destaque
