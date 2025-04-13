@@ -107,7 +107,7 @@ Aplicativo completo para gestão de produtos e pagamentos.
 <br><br>
 
 📫 Contato:
-- <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100"> GitHub: [@cGuilhermec](https://github.com/cGuilhermec)  
+- <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="25"> GitHub: [@cGuilhermec](https://github.com/cGuilhermec)  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" /> Email: guilherme-9951@live.com  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="25" height="25" /> Celular: (12) 98240-3733  
 
