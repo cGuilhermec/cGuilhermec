@@ -1,7 +1,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 
-<br><br><br>
+<br>
 
 <div align="center">
   <h1>
@@ -11,28 +11,26 @@
   </h1>
 </div>
 
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="9000">
 <br><br><br><br>
 
 # <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="55">&nbsp;  Sobre mim
 
 Desenvolvedor com sólida formação e experiência prática em **projetos full-stack**, com foco em **Back-end**. Apaixonado por tecnologia, tenho facilidade para entender necessidades reais dos usuários e transformar ideias em soluções funcionais, escaláveis e bem estruturadas.
+<br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="55">&nbsp; **Objetivo**: Atuar como desenvolvedor Back-end, contribuindo com projetos de alto impacto. Apesar do foco, tenho domínio completo de tecnologias Front-end e sei integrar perfeitamente ambas as pontas através de APIs RESTful e arquiteturas bem definidas.
-
+<br>
 ---
-
-### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="75">&nbsp; Tecnologias que utilizo no dia a dia:
+<br>
+### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="55">&nbsp; Tecnologias que utilizo no dia a dia:
 - **Back-end**: Node.js, TypeScript, PostgreSQL, MongoDB, MySQL, Prisma ORM, JWT, Mongoose, GraphQL, arquitetura MVC
 - **Front-end**: React, React Native, JavaScript, HTML, CSS, Bootstrap
 - **Integrações**: Consumo de APIs REST com Axios e Fetch
 - **Outros**: Git & GitHub, Figma, Scrum, Metodologias Ágeis
-
+<br>
 ---
-
-### 💼 Experiência em Projetos Reais
+<br>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="Briefcase" width="25" height="55" /> Experiência em Projetos Reais
 
 🔹 **LifePlus**  
 Plataforma inteligente que auxilia usuários no controle da alimentação e adoção de hábitos saudáveis, com uso de **IA para recomendações personalizadas**.  
@@ -118,3 +116,4 @@ Aplicativo completo para gestão de produtos e pagamentos.
 **Vamos codar algo incrível juntos!**
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="9000">
