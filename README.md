@@ -1,7 +1,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="9000">
-
-<div align="center">
+<br><br><br><br><br><br><br>
+<div style="display: flex; justify-content: center; align-items: center; height: 100px;">
   <h1>
     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
       Olá, eu sou o Guilherme Carvalho!
@@ -9,8 +9,8 @@
   </h1>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
-<br><br>
+
+
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="75">&nbsp;  Sobre mim
 
@@ -112,3 +112,5 @@ Aplicativo completo para gestão de produtos e pagamentos.
 ---
 
 **Vamos codar algo incrível juntos!**
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
