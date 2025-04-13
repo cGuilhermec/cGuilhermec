@@ -13,6 +13,14 @@
 
 <br><br><br><br>
 
+<div align="center">
+<a href="https://github.com/cGuilhermec">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cGuilhermec&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=cGuilhermec&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+<br><br>
+
 # <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="55">&nbsp;  Sobre mim
 
 Desenvolvedor com sólida formação e experiência prática em **projetos full-stack**, com foco em **Back-end**. Apaixonado por tecnologia, tenho facilidade para entender necessidades reais dos usuários e transformar ideias em soluções funcionais, escaláveis e bem estruturadas.
@@ -42,23 +50,23 @@ Desenvolvedor com sólida formação e experiência prática em **projetos full-
 
 🔹 **LifePlus**  
 Plataforma inteligente que auxilia usuários no controle da alimentação e adoção de hábitos saudáveis, com uso de **IA para recomendações personalizadas**.  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> *TypeScript, React, Node.js, MongoDB, JWT, MVC*
+🛠️ *TypeScript, React, Node.js, MongoDB, JWT, MVC*
 
 🔹 **Sistema de Gestão de Tarefas - Visiona**  
 Aplicação para visualização e controle de tarefas empresariais, com foco em usabilidade e performance.  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> *React, Google Charts, Framer Motion, Node.js, PostgreSQL, JWT*
+🛠️ *React, Google Charts, Framer Motion, Node.js, PostgreSQL, JWT*
 
 🔹 **StudioRsv**  
 Sistema de agendamento online para estúdios, com verificação de disponibilidade em tempo real.  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> *React, Node.js, MySQL*
+🛠️ *React, Node.js, MySQL*
 
 🔹 **Sistema Multi-Banco de Dados**  
 Arquitetura distribuída com três servidores e múltiplos bancos de dados, garantindo alta disponibilidade.  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> *React, Node.js, PostgreSQL, MongoDB, MySQL*
+🛠️ *React, Node.js, PostgreSQL, MongoDB, MySQL*
 
 🔹 **Aplicação Scrum Interativa**  
 Ferramenta educacional com quizzes para aprendizado de Scrum, com interface amigável.  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> *HTML, CSS, Bootstrap, JavaScript, Figma*
+🛠️ *HTML, CSS, Bootstrap, JavaScript, Figma*
 
 🔹 **Sistema de Estoque e Vendas**  
 Aplicativo completo para gestão de produtos e pagamentos.  
@@ -80,44 +88,41 @@ Aplicativo completo para gestão de produtos e pagamentos.
 
 <br>
 
-### 🧠 Experiência Acadêmica e Times
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" /> Experiência Acadêmica e Times
 - **Scrum Master & Líder de Desenvolvimento** no projeto Scrum Interativo (FATEC 2023)
 - Participação ativa como **Dev Team** em projetos acadêmicos e externos
 - Aplicação de práticas ágeis: **sprints, reuniões com clientes, versionamento com Git**
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="9000">
 
 <br>
 
 ### 🌍 Idiomas
-- Português (nativo)
-- Inglês (avançado)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Brazil.webp" alt="Flag Brazil" width="20" height="20" /> Português (nativo)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20United%20States.webp" alt="Flag United States" width="20" height="20" /> Inglês (avançado)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Spain.webp" alt="Flag Spain" width="20" height="20" /> Espanhol (Básico)
+
+<br><br>
 
 📫 Contato:
-- GitHub: [@cGuilhermec](https://github.com/cGuilhermec)  
-- Email: guilherme-9951@live.com  
-- Celular: (12) 98240-3733  
+- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100"> GitHub: [@cGuilhermec](https://github.com/cGuilhermec)  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" /> Email: guilherme-9951@live.com  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="25" height="25" /> Celular: (12) 98240-3733  
 
 
-<div align="center">
-<a href="https://github.com/cGuilhermec">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cGuilhermec&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=cGuilhermec&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
 
 ![Snake animation](https://github.com/cGuilhermec/cGuilhermec/blob/output/github-contribution-grid-snake.svg)
 
 
+## See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/>
 
-
-## Projetos em destaque
-| Nome do Projeto | Tecnologias | Descrição |
-|-----------------|-------------|-----------|
-| [Projeto 1](link) | React, Node.js | Aplicação para [breve descrição] |
-| [Projeto 2](link) | Python, FastAPI | Sistema que [breve descrição] |
-
+<a href="https://cguilhermec.github.io/portifolio/" target="_blank">
+  <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="40" height="40" />
+  <strong>cguilhermec.github.io/portifolio</strong>
+</a>
 
 <h2>See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
 
