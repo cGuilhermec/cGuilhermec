@@ -1,7 +1,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 
-<br><br><br><br><br><br><br>
+<br><br><br>
 
 <div align="center">
   <h1>
@@ -14,7 +14,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="9000">
 <br><br><br><br>
 
-# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="55">&nbsp;  Sobre mim
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="55">&nbsp;  Sobre mim
 
 Desenvolvedor com sólida formação e experiência prática em **projetos full-stack**, com foco em **Back-end**. Apaixonado por tecnologia, tenho facilidade para entender necessidades reais dos usuários e transformar ideias em soluções funcionais, escaláveis e bem estruturadas.
 
