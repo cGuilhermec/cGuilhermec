@@ -20,7 +20,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cGuilhermec&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="65%" /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cGuilhermec&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cGuilhermec&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="30%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cGuilhermec&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
 <br><br><br><br>
