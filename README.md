@@ -30,7 +30,7 @@ Desenvolvedor com sólida formação e experiência prática em **projetos full-
 <br>
 ---
 <br>
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="Briefcase" width="25" height="55" /> Experiência em Projetos Reais
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="Briefcase" width="55" height="55" />&nbsp; Experiência em Projetos Reais
 
 🔹 **LifePlus**  
 Plataforma inteligente que auxilia usuários no controle da alimentação e adoção de hábitos saudáveis, com uso de **IA para recomendações personalizadas**.  
