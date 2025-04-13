@@ -114,7 +114,7 @@ Aplicativo completo para gestão de produtos e pagamentos.
 
 <br><br><br><br><br>
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="650"> </div>
-<br><br><br>
+<br><br><br><br><br>
 
 📫 Contato:
 - <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="25"> GitHub: [@cGuilhermec](https://github.com/cGuilhermec)  
@@ -131,7 +131,7 @@ Aplicativo completo para gestão de produtos e pagamentos.
 </div>
 
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
