@@ -19,8 +19,11 @@ Desenvolvedor com sólida formação e experiência prática em **projetos full-
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="55">&nbsp; **Objetivo**: Atuar como desenvolvedor Back-end, contribuindo com projetos de alto impacto. Apesar do foco, tenho domínio completo de tecnologias Front-end e sei integrar perfeitamente ambas as pontas através de APIs RESTful e arquiteturas bem definidas.
+
 <br>
+
 ---
+
 <br>
 
 ### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="55">&nbsp; Tecnologias que utilizo no dia a dia:
@@ -30,49 +33,63 @@ Desenvolvedor com sólida formação e experiência prática em **projetos full-
 - **Outros**: Git & GitHub, Figma, Scrum, Metodologias Ágeis
 
 <br>
+
 ---
+
 <br>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="Briefcase" width="55" height="55">&nbsp; Experiência em Projetos Reais
 
 🔹 **LifePlus**  
 Plataforma inteligente que auxilia usuários no controle da alimentação e adoção de hábitos saudáveis, com uso de **IA para recomendações personalizadas**.  
-🛠️ *TypeScript, React, Node.js, MongoDB, JWT, MVC*
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> *TypeScript, React, Node.js, MongoDB, JWT, MVC*
 
 🔹 **Sistema de Gestão de Tarefas - Visiona**  
 Aplicação para visualização e controle de tarefas empresariais, com foco em usabilidade e performance.  
-🛠️ *React, Google Charts, Framer Motion, Node.js, PostgreSQL, JWT*
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> *React, Google Charts, Framer Motion, Node.js, PostgreSQL, JWT*
 
 🔹 **StudioRsv**  
 Sistema de agendamento online para estúdios, com verificação de disponibilidade em tempo real.  
-🛠️ *React, Node.js, MySQL*
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> *React, Node.js, MySQL*
 
 🔹 **Sistema Multi-Banco de Dados**  
 Arquitetura distribuída com três servidores e múltiplos bancos de dados, garantindo alta disponibilidade.  
-🛠️ *React, Node.js, PostgreSQL, MongoDB, MySQL*
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> *React, Node.js, PostgreSQL, MongoDB, MySQL*
 
 🔹 **Aplicação Scrum Interativa**  
 Ferramenta educacional com quizzes para aprendizado de Scrum, com interface amigável.  
-🛠️ *HTML, CSS, Bootstrap, JavaScript, Figma*
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> *HTML, CSS, Bootstrap, JavaScript, Figma*
 
 🔹 **Sistema de Estoque e Vendas**  
 Aplicativo completo para gestão de produtos e pagamentos.  
 🛠️ *React Native, Node.js, MySQL*
 
+<br>
+
 ---
 
-### 🎓 Formação Acadêmica
+<br>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="55" height="55" > Formação Acadêmica
 - **FATEC Jacareí** – Desenvolvimento de Software Multiplataforma (2026)
 - **Anhanguera** – Ciências Contábeis (2023)
 
+<br>
+
 ---
+
+<br>
 
 ### 🧠 Experiência Acadêmica e Times
 - **Scrum Master & Líder de Desenvolvimento** no projeto Scrum Interativo (FATEC 2023)
 - Participação ativa como **Dev Team** em projetos acadêmicos e externos
 - Aplicação de práticas ágeis: **sprints, reuniões com clientes, versionamento com Git**
 
+<br>
+
 ---
+
+<br>
 
 ### 🌍 Idiomas
 - Português (nativo)
