@@ -95,7 +95,7 @@ Aplicativo completo para gestão de produtos e pagamentos.
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="9000">
+---
 
 <br>
 
@@ -104,7 +104,9 @@ Aplicativo completo para gestão de produtos e pagamentos.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20United%20States.webp" alt="Flag United States" width="30" height="30" /> Inglês (avançado)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Spain.webp" alt="Flag Spain" width="30" height="30" /> Espanhol (Básico)
 
-<br><br>
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
+<br>
 
 📫 Contato:
 - <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="25"> GitHub: [@cGuilhermec](https://github.com/cGuilhermec)  
