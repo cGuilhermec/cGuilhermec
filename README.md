@@ -124,13 +124,11 @@ Aplicativo completo para gestão de produtos e pagamentos.
   
 <br><br><br>
 
-<div align="center">
+<div>
   <h2>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="35" height="35" />
      Veja meu portfólio
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="35" height="35" />
   </h2>
-    <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/>
   <a href="https://cguilhermec.github.io/portifolio/" target="_blank">
     <strong>cguilhermec.github.io/portifolio</strong>
   </a>
