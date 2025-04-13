@@ -13,11 +13,11 @@
 
 <br><br><br>
 
-## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="50">&nbsp;  Sobre mim
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="55">&nbsp;  Sobre mim
 
 Desenvolvedor com sólida formação e experiência prática em **projetos full-stack**, com foco em **Back-end**. Apaixonado por tecnologia, tenho facilidade para entender necessidades reais dos usuários e transformar ideias em soluções funcionais, escaláveis e bem estruturadas.
 
-<img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="75">&nbsp; **Objetivo**: Atuar como desenvolvedor Back-end, contribuindo com projetos de alto impacto. Apesar do foco, tenho domínio completo de tecnologias Front-end e sei integrar perfeitamente ambas as pontas através de APIs RESTful e arquiteturas bem definidas.
+<img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="55">&nbsp; **Objetivo**: Atuar como desenvolvedor Back-end, contribuindo com projetos de alto impacto. Apesar do foco, tenho domínio completo de tecnologias Front-end e sei integrar perfeitamente ambas as pontas através de APIs RESTful e arquiteturas bem definidas.
 
 ---
 
