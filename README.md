@@ -24,14 +24,74 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br><br>
 
-## Sobre mim
-Desenvolvedor apaixonado por tecnologia, focado em FullStack. Sempre em busca de novos desafios e soluções criativas.
+## 👨‍💻 Sobre mim
 
-- Atualmente trabalhando com: **React, Node, TypeScript,  MySQL,  MongoDB, PostgreSQL,  Prisma,  MVC**.
-- Aprendendo: **C#, .Net, GraphQL, Angular**
-- Interesses: **projetos open source, IA, automações, saúde tech, finanças...**
+Desenvolvedor com sólida formação e experiência prática em **projetos full-stack**, com foco em **Back-end**. Apaixonado por tecnologia, tenho facilidade para entender necessidades reais dos usuários e transformar ideias em soluções funcionais, escaláveis e bem estruturadas.
 
-<div>
+🎯 **Objetivo**: Atuar como desenvolvedor Back-end, contribuindo com projetos de alto impacto. Apesar do foco, tenho domínio completo de tecnologias Front-end e sei integrar perfeitamente ambas as pontas através de APIs RESTful e arquiteturas bem definidas.
+
+---
+
+### 🚀 Tecnologias que utilizo no dia a dia:
+- **Back-end**: Node.js, TypeScript, PostgreSQL, MongoDB, MySQL, Prisma ORM, JWT, Mongoose, GraphQL, arquitetura MVC
+- **Front-end**: React, React Native, JavaScript, HTML, CSS, Bootstrap
+- **Integrações**: Consumo de APIs REST com Axios e Fetch
+- **Outros**: Git & GitHub, Figma, Scrum, Metodologias Ágeis
+
+---
+
+### 💼 Experiência em Projetos Reais
+
+🔹 **LifePlus**  
+Plataforma inteligente que auxilia usuários no controle da alimentação e adoção de hábitos saudáveis, com uso de **IA para recomendações personalizadas**.  
+🛠️ *TypeScript, React, Node.js, MongoDB, JWT, MVC*
+
+🔹 **Sistema de Gestão de Tarefas - Visiona**  
+Aplicação para visualização e controle de tarefas empresariais, com foco em usabilidade e performance.  
+🛠️ *React, Google Charts, Framer Motion, Node.js, PostgreSQL, JWT*
+
+🔹 **StudioRsv**  
+Sistema de agendamento online para estúdios, com verificação de disponibilidade em tempo real.  
+🛠️ *React, Node.js, MySQL*
+
+🔹 **Sistema Multi-Banco de Dados**  
+Arquitetura distribuída com três servidores e múltiplos bancos de dados, garantindo alta disponibilidade.  
+🛠️ *React, Node.js, PostgreSQL, MongoDB, MySQL*
+
+🔹 **Aplicação Scrum Interativa**  
+Ferramenta educacional com quizzes para aprendizado de Scrum, com interface amigável.  
+🛠️ *HTML, CSS, Bootstrap, JavaScript, Figma*
+
+🔹 **Sistema de Estoque e Vendas**  
+Aplicativo completo para gestão de produtos e pagamentos.  
+🛠️ *React Native, Node.js, MySQL*
+
+---
+
+### 🎓 Formação Acadêmica
+- **FATEC Jacareí** – Desenvolvimento de Software Multiplataforma (2026)
+- **Anhanguera** – Ciências Contábeis (2023)
+
+---
+
+### 🧠 Experiência Acadêmica e Times
+- **Scrum Master & Líder de Desenvolvimento** no projeto Scrum Interativo (FATEC 2023)
+- Participação ativa como **Dev Team** em projetos acadêmicos e externos
+- Aplicação de práticas ágeis: **sprints, reuniões com clientes, versionamento com Git**
+
+---
+
+### 🌍 Idiomas
+- Português (nativo)
+- Inglês (avançado)
+
+📫 Contato:
+- GitHub: [@cGuilhermec](https://github.com/cGuilhermec)  
+- Email: guilherme-9951@live.com  
+- Celular: (12) 98240-3733  
+
+
+<div align="center">
 <a href="https://github.com/cGuilhermec">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cGuilhermec&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=cGuilhermec&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -39,9 +99,7 @@ Desenvolvedor apaixonado por tecnologia, focado em FullStack. Sempre em busca de
 
 ![Snake animation](https://github.com/cGuilhermec/cGuilhermec/blob/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://github.com/cGuilhermec/cGuilhermec/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cGuilhermec&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 ## Projetos em destaque
