@@ -116,15 +116,9 @@ Aplicativo completo para gestão de produtos e pagamentos.
 📫 Contato:
 - <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="25"> GitHub: [@cGuilhermec](https://github.com/cGuilhermec)  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" /> Email: guilherme-9951@live.com  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="25" height="25" /> Celular: (12) 98240-3733  
-
-
-
-
-![snake gif](https://github.com/cGuilhermec/cGuilhermec/blob/output/github-snake.svg)
-
-![snake gif](https://github.com/cGuilhermec/cGuilhermec/blob/output/ocean.gif)
-
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="25" height="25" /> Celular: (12) 98240-3733
+  
+<br><br><br>
 
 ## See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/>
 
@@ -133,21 +127,14 @@ Aplicativo completo para gestão de produtos e pagamentos.
   <strong>cguilhermec.github.io/portifolio</strong>
 </a>
 
-<h2>See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
 
-## Contatos:
+<br><br><br><br><br><br><br><br><br>
 
-<div>
 
-<a href="https://www.instagram.com/_guihcarvalho_?igsh=NnN3MHVpMHlwbmph" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="(https://www.linkedin.com/in/guilherme-carvalho-1b8b08156?trk=contact-info" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "guilherme-9951@live.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div align="center">
+    **Vamos codar algo incrível juntos!**
 </div>
 
-
----
-
-**Vamos codar algo incrível juntos!**
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="9000">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="9000">
