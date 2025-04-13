@@ -6,10 +6,11 @@
 <div align="center">
   <p>
     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-    <font size="6"><strong>Olá, eu sou o Guilherme Carvalho!</strong></font>
+    <font size="5"><strong>Olá, eu sou o Guilherme Carvalho!</strong></font>
     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
   </p>
 </div>
+
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="9000">
