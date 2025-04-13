@@ -8,19 +8,19 @@
 
 <br>
 
-<div align="center">
-  <h1>
-    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-      Olá, eu sou o Guilherme Carvalho!
-    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  </h1>
-</div>
+// <div align="center">
+//  <h1>
+//     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+//       Olá, eu sou o Guilherme Carvalho!
+//     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+//   </h1>
+// </div>
 
 <!-- Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cGuilhermec&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="65%" /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cGuilhermec&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cGuilhermec&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="50%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cGuilhermec&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="30%" /> </br>
 </div>
 
 <br><br><br><br>
