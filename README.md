@@ -22,15 +22,18 @@ Desenvolvedor com sólida formação e experiência prática em **projetos full-
 <br>
 ---
 <br>
+
 ### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="55">&nbsp; Tecnologias que utilizo no dia a dia:
 - **Back-end**: Node.js, TypeScript, PostgreSQL, MongoDB, MySQL, Prisma ORM, JWT, Mongoose, GraphQL, arquitetura MVC
 - **Front-end**: React, React Native, JavaScript, HTML, CSS, Bootstrap
 - **Integrações**: Consumo de APIs REST com Axios e Fetch
 - **Outros**: Git & GitHub, Figma, Scrum, Metodologias Ágeis
+
 <br>
 ---
 <br>
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="Briefcase" width="55" height="55" />&nbsp; Experiência em Projetos Reais
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="Briefcase" width="55" height="55">&nbsp; Experiência em Projetos Reais
 
 🔹 **LifePlus**  
 Plataforma inteligente que auxilia usuários no controle da alimentação e adoção de hábitos saudáveis, com uso de **IA para recomendações personalizadas**.  
