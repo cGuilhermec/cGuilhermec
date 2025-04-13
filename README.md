@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cGuilhermec&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
-<br><br><br><br><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="800"><br><br><br><br>
+<br><br><br><br><div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="650"> </div><br><br><br><br>
 
 
 
