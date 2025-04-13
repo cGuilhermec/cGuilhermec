@@ -1,7 +1,9 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="9000">
+
 <br><br><br><br><br><br><br>
-<div style="display: flex; justify-content: center; align-items: center; height: 100px;">
+
+<div align="center">
   <h1>
     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
       Olá, eu sou o Guilherme Carvalho!
@@ -9,10 +11,9 @@
   </h1>
 </div>
 
+<br><br><br>
 
-
-
-## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="75">&nbsp;  Sobre mim
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="30">&nbsp;  Sobre mim
 
 Desenvolvedor com sólida formação e experiência prática em **projetos full-stack**, com foco em **Back-end**. Apaixonado por tecnologia, tenho facilidade para entender necessidades reais dos usuários e transformar ideias em soluções funcionais, escaláveis e bem estruturadas.
 
