@@ -9,9 +9,9 @@
 
  <div align="center">
   <h1>
-     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45">
        Olá, eu sou o Guilherme Carvalho!
-     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45">
    </h1>
  </div>
 
@@ -128,7 +128,7 @@ Aplicativo completo para gestão de produtos e pagamentos.
 
 <a href="https://cguilhermec.github.io/portifolio/" target="_blank">
   <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="40" height="40" />
-  <strong>cguilhermec.github.io/portifolio</strong>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> <strong>cguilhermec.github.io/portifolio</strong> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" />
 </a>
 
 <div align="center">
