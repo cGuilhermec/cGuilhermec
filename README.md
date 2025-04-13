@@ -8,28 +8,24 @@
 
 <br>
 
-// <div align="center">
-//  <h1>
-//     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-//       Olá, eu sou o Guilherme Carvalho!
-//     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-//   </h1>
-// </div>
+ <div align="center">
+  <h1>
+     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+       Olá, eu sou o Guilherme Carvalho!
+     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+   </h1>
+ </div>
 
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cGuilhermec&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="65%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=cGuilhermec&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cGuilhermec&theme=aura&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cGuilhermec&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
 <br><br><br><br>
 
-<div align="center">
-<a href="https://github.com/cGuilhermec">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cGuilhermec&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=cGuilhermec&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
 
 <br><br>
 
