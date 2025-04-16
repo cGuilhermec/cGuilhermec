@@ -158,7 +158,7 @@ Aplicativo completo para gestão de produtos e pagamentos.
 
 ### 🌍 Languages
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Brazil.webp" alt="Flag Brazil" width="30" height="30" /> Português (nativo)
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20United%20States.webp" alt="Flag United States" width="30" height="30" /> Inglês (avançado)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20United%20States.webp" alt="Flag United States" width="30" height="30" /> English: Intermediate-Advanced – Good comprehension of technical texts and ability to communicate in English, even without fluency.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Spain.webp" alt="Flag Spain" width="30" height="30" /> Espanhol (Básico)
 
 <br><br><br><br><br>
