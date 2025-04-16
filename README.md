@@ -88,32 +88,6 @@ An educational tool with quizzes to learn Scrum, featuring a user-friendly inter
 A complete app for managing products and payments.  
 🛠️ *React Native, Node.js, MySQL*
 
-**Experiência em Projetos Reais**
-
-🔹 **LifePlus**  
-Plataforma inteligente que auxilia usuários no controle da alimentação e adoção de hábitos saudáveis, com uso de **IA para recomendações personalizadas**.  
-🛠️ *TypeScript, React, Node.js, MongoDB, JWT, MVC*
-
-🔹 **Sistema de Gestão de Tarefas - Visiona**  
-Aplicação para visualização e controle de tarefas empresariais, com foco em usabilidade e performance.  
-🛠️ *React, Google Charts, Framer Motion, Node.js, PostgreSQL, JWT*
-
-🔹 **StudioRsv**  
-Sistema de agendamento online para estúdios, com verificação de disponibilidade em tempo real.  
-🛠️ *React, Node.js, MySQL*
-
-🔹 **Sistema Multi-Banco de Dados**  
-Arquitetura distribuída com três servidores e múltiplos bancos de dados, garantindo alta disponibilidade.  
-🛠️ *React, Node.js, PostgreSQL, MongoDB, MySQL*
-
-🔹 **Aplicação Scrum Interativa**  
-Ferramenta educacional com quizzes para aprendizado de Scrum, com interface amigável.  
-🛠️ *HTML, CSS, Bootstrap, JavaScript, Figma*
-
-🔹 **Sistema de Estoque e Vendas**  
-Aplicativo completo para gestão de produtos e pagamentos.  
-🛠️ *React Native, Node.js, MySQL*
-
 <br><br>
 
 **Experiência em Projetos Reais**
