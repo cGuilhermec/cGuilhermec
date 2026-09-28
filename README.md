@@ -1,189 +1,99 @@
-<!-- Snake Animation -->
+<!-- Header Snake Animation -->
 <div align="center">
-    
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+  <img src="https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </div>
 
-<br><br><br>
-
- <div align="center">
-  <h1>
-     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45">
-       Hi, I'm Guilherme Carvalho!
-     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45">
-   </h1>
- </div>
-
-<br><br><br><br><br>
-
-<!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cGuilhermec&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cGuilhermec&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cGuilhermec&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <h1>Hi there, I'm Guilherme Carvalho 👋</h1>
+  <p><strong>Back-End & Full-Stack Software Engineer</strong> · FATEC Jacareí</p>
+  
+  <p>
+    <a href="https://cguilhermec.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-cguilhermec.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://gcflow.com.br/" target="_blank"><img src="https://img.shields.io/badge/SaaS-GCFlow-7952B3?style=for-the-badge&logo=fastapi&logoColor=white" alt="GCFlow"/></a>
+    <a href="https://gcwebservice.com.br/" target="_blank"><img src="https://img.shields.io/badge/Services-GCWebService-007ACC?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GC Web Service"/></a>
+    <a href="mailto:guilherme-9951@live.com"><img src="https://img.shields.io/badge/Email-guilherme--9951%40live.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://github.com/cGuilhermec"><img src="https://img.shields.io/badge/GitHub-cGuilhermec-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  </p>
 </div>
 
-<br><br><br><br><div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="450"> </div><br><br><br><br>
+---
 
+### 👨‍💻 About Me
 
+Developer with strong expertise in **scalable full-stack architectures and high-performance back-end services**. Experienced in architecting complete SaaS solutions, designing multi-database systems, and turning real-world business needs into reliable production software.
 
-<br><br>
-
-# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="55">&nbsp;  About Me
-
-Developer with a solid background and hands-on experience in **full-stack projects**, with a strong focus on **Back-end**. Passionate about technology, I have the ability to understand real user needs and turn ideas into functional, scalable, and well-structured solutions.
-
-<br>
-
-Desenvolvedor com sólida formação e experiência prática em **projetos full-stack**, com foco em **Back-end**. Apaixonado por tecnologia, tenho facilidade para entender necessidades reais dos usuários e transformar ideias em soluções funcionais, escaláveis e bem estruturadas.
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="55">&nbsp;**Objective**: To work as a **Back-end** developer, contributing to high-impact projects. Despite the focus, I have complete knowledge of **Front-end** technologies and know how to seamlessly integrate both ends through **RESTful APIs** and well-defined architectures.
-
-<br>
-
-**Objetivo**: Atuar como desenvolvedor Back-end, contribuindo com projetos de alto impacto. Apesar do foco, tenho domínio completo de tecnologias Front-end e sei integrar perfeitamente ambas as pontas através de APIs RESTful e arquiteturas bem definidas.
-
-<br>
+- 🎯 **Core Focus:** Back-End engineering, RESTful APIs, microservices, and distributed data systems.
+- 🚀 **Founder & Lead Developer:** Architected and launched [GCFlow](https://gcflow.com.br/) (all-in-one business management SaaS) and [GC Web Service](https://gcwebservice.com.br/).
+- 🎓 **Education:** Software Development for Multiplatforms at **FATEC Jacareí** (Expected 2026) | B.S. in Accounting (2023).
+- ⚙️ **Agile Leadership:** Scrum Master experience, sprint delivery, architecture modeling, and CI/CD versioning.
+- 🌐 **Languages:** Portuguese (Native), English (Intermediate-Advanced), Spanish (Basic).
 
 ---
 
-<br>
+### 🛠️ Tech Stack & Ecosystem
 
-### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="55">&nbsp; **Technologies I use daily**:
-- **Back-end**: Node.js, TypeScript, PostgreSQL, MongoDB, MySQL, Prisma ORM, JWT, Mongoose, GraphQL, **MVC architecture**
-- **Front-end**: React, React Native, JavaScript, HTML, CSS, Bootstrap
-- **Integrations**: Consuming **REST APIs** with Axios and Fetch
-- **Other**: Git & GitHub, Figma, Scrum, **Agile methodologies**
-
-<br>
-
----
-
-<br>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="Briefcase" width="55" height="55">&nbsp; **Experience in Real Projects**
-
-🔹 **LifePlus**  
-An intelligent platform that helps users control their diet and adopt healthy habits, using **AI for personalized recommendations**.  
-🛠️ *TypeScript, React, Node.js, MongoDB, JWT, MVC*
-
-🔹 **Task Management System - Visiona**  
-An application for visualizing and managing business tasks, focusing on usability and performance.  
-🛠️ *React, Google Charts, Framer Motion, Node.js, PostgreSQL, JWT*
-
-🔹 **StudioRsv**  
-An online booking system for studios, with real-time availability checks.  
-🛠️ *React, Node.js, MySQL*
-
-🔹 **Multi-Database System**  
-A distributed architecture with three servers and multiple databases, ensuring high availability.  
-🛠️ *React, Node.js, PostgreSQL, MongoDB, MySQL*
-
-🔹 **Interactive Scrum Application**  
-An educational tool with quizzes to learn Scrum, featuring a user-friendly interface.  
-🛠️ *HTML, CSS, Bootstrap, JavaScript, Figma*
-
-🔹 **Inventory and Sales System**  
-A complete app for managing products and payments.  
-🛠️ *React Native, Node.js, MySQL*
-
-<br><br>
-
-**Experiência em Projetos Reais**
-
-🔹 **LifePlus**  
-Plataforma inteligente que auxilia usuários no controle da alimentação e adoção de hábitos saudáveis, com uso de **IA para recomendações personalizadas**.  
-🛠️ *TypeScript, React, Node.js, MongoDB, JWT, MVC*
-
-🔹 **Sistema de Gestão de Tarefas - Visiona**  
-Aplicação para visualização e controle de tarefas empresariais, com foco em usabilidade e performance.  
-🛠️ *React, Google Charts, Framer Motion, Node.js, PostgreSQL, JWT*
-
-🔹 **StudioRsv**  
-Sistema de agendamento online para estúdios, com verificação de disponibilidade em tempo real.  
-🛠️ *React, Node.js, MySQL*
-
-🔹 **Sistema Multi-Banco de Dados**  
-Arquitetura distribuída com três servidores e múltiplos bancos de dados, garantindo alta disponibilidade.  
-🛠️ *React, Node.js, PostgreSQL, MongoDB, MySQL*
-
-🔹 **Aplicação Scrum Interativa**  
-Ferramenta educacional com quizzes para aprendizado de Scrum, com interface amigável.  
-🛠️ *HTML, CSS, Bootstrap, JavaScript, Figma*
-
-🔹 **Sistema de Estoque e Vendas**  
-Aplicativo completo para gestão de produtos e pagamentos.  
-🛠️ *React Native, Node.js, MySQL*
-
-<br>
+<p align="left">
+  <!-- Back-end & Databases -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens" alt="JWT"/>
+  <br/>
+  <!-- Front-end & Mobile -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <br/>
+  <!-- Tools & Workflow -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Scrum-007ACC?style=flat-square&logo=scrumalliance&logoColor=white" alt="Scrum"/>
+</p>
 
 ---
 
-<br>
+### 🌟 Featured Live Products
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="55" height="55" > **Academic Background**
-- **FATEC Jacareí** – Software Development for Multiple Platforms (2026)
-- **Anhanguera** – Accounting (2023)
-  
-<b><br>
-
-**Formação Acadêmica**
-- **FATEC Jacareí** – Desenvolvimento de Software Multiplataforma (2026)
-- **Anhanguera** – Ciências Contábeis (2023)
-
-<br>
+| Platform | Role / Focus | Description | Live Demo |
+| :--- | :--- | :--- | :---: |
+| **GCFlow** | Full-Stack / SaaS | Complete all-in-one business management platform featuring smart scheduling, real-time financial cash flow, and automated inventory control. | [🔗 Visit GCFlow](https://gcflow.com.br/) |
+| **GC Web Service** | Web & Cloud Solutions | Dedicated digital agency & web services platform delivering custom web architectures, high-impact landing pages, and enterprise integrations. | [🔗 Visit GC Web Service](https://gcwebservice.com.br/) |
 
 ---
 
-<br>
+### 🚀 Key Projects & Architectures
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" /> **Academic Experience and Teams**
-- **Scrum Master & Development Leader** in the Interactive Scrum project (FATEC 2023)
-- Active participation as **Dev Team** member in academic and external projects
-- Application of agile practices: **sprints, client meetings, versioning with Git**
-
-<br><br>
-
-**Experiência Acadêmica e Times**
-- **Scrum Master & Líder de Desenvolvimento** no projeto Scrum Interativo (FATEC 2023)
-- Participação ativa como **Dev Team** em projetos acadêmicos e externos
-- Aplicação de práticas ágeis: **sprints, reuniões com clientes, versionamento com Git**
-
-<br>
+| Project | Key Technologies | Description |
+| :--- | :--- | :--- |
+| **Multi-Database Distributed System** | `Node.js` `PostgreSQL` `MongoDB` `MySQL` | High-availability architecture balancing data persistence across three dedicated servers and multiple DB engines. |
+| **LifePlus** | `TypeScript` `React` `Node.js` `MongoDB` `JWT` | Health-tech application integrating AI recommendations for nutrition, habit tracking, and user routines. |
+| **Task Management (Visiona)** | `React` `Node.js` `PostgreSQL` `Framer Motion` | Enterprise workflow tracking dashboard with interactive metrics and visual charts. |
+| **StudioRsv** | `React` `Node.js` `MySQL` | Real-time booking system for production studios with automated schedule synchronization. |
+| **Interactive Scrum Platform** | `JavaScript` `Bootstrap` `Figma` | Gamified educational platform for agile learning, built while acting as Scrum Master. |
+| **Inventory & Sales Mobile App** | `React Native` `Node.js` `MySQL` | Cross-platform mobile tool for point-of-sale operations, order tracking, and stock alerts. |
 
 ---
 
-<br>
+### 📊 GitHub Activity & Metrics
 
-### 🌍 Languages
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Brazil.webp" alt="Flag Brazil" width="30" height="30" /> Português (nativo)
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20United%20States.webp" alt="Flag United States" width="30" height="30" /> English: Intermediate-Advanced – Good comprehension of technical texts and ability to communicate in English, even without fluency.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Spain.webp" alt="Flag Spain" width="30" height="30" /> Espanhol (Básico)
-
-<br><br><br><br><br>
-<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="550"> </div>
-<br><br><br><br><br>
-
-📫 Contact:
-- <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="25"> GitHub: [@cGuilhermec](https://github.com/cGuilhermec)  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" /> Email: guilherme-9951@live.com  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="25" height="25" />  Celular: (12) 98240-3733
-  
-<br><br><br>
-
-<div>
-  <h1>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="50" height="50" />
-         See my portfolio: <a href="https://cguilhermec.github.io/portfolio/" target="_blank"><strong>cguilhermec.github.io/portifolio</strong></a>
-  </h1>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cGuilhermec&theme=aura&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cGuilhermec&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cGuilhermec&theme=aura&hide_border=true" height="145" alt="GitHub Streak" />
 </div>
 
+---
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="9000">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="9000">
+<div align="center">
+  <p>💼 Open to new challenges and collaborative projects.</p>
+  <p>Connect with me via <a href="mailto:guilherme-9951@live.com">Email</a> or visit my <a href="https://cguilhermec.github.io/portfolio/" target="_blank">Portfolio</a>.</p>
+</div>
